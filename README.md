@@ -1,3 +1,3 @@
 #A (super) Simple Website
 
-Creating a basic website for a budding designer's portfolio.
+Creating a basic website for an imaginary budding designer's portfolio.
