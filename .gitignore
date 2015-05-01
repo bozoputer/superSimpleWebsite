@@ -1,4 +1,4 @@
 assets/*
 config.codekit
-sublime-workspace
-sublime-project
+*.sublime-workspace
+*.sublime-project
