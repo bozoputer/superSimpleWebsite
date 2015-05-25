@@ -69,7 +69,6 @@ footer {
 
 
 
-
 /*****************************
 PAGE: PORTFOLIO
 ******************************/
@@ -88,7 +87,12 @@ PAGE: PORTFOLIO
 	color: #bdc3c7;
 }
 
-
+#gallery li a p {
+	margin: 0;
+	padding: 5%;
+	font-size: 0.75em;
+	color: #bdc3c7;
+}
 
 /*****************************
 COLORS
