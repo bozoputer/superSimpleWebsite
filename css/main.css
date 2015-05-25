@@ -1,7 +1,6 @@
-a {
-	text-decoration: none;
-	color: #6ab47b;
-}
+/*****************************
+GENERAL
+******************************/
 
 #wrapper {
 	max-width: 940px;
@@ -9,34 +8,60 @@ a {
 	padding: 0 5%;
 }
 
+a {
+	text-decoration: none;
+}
+
+
+
+/*****************************
+HEADING
+******************************/
+
 #logo {
 	text-align: center;
 	margin: 0;
 }
 
-header {
-	background-color: #6ab47b;
-	border-color: #599a68;
-}
 
-h1, h2 {
-	color: #fff;
-}
 
-nav {
-	background: #599a68;
-}
+/*****************************
+COLORS
+******************************/
 
-nav a, nav a:visited {
-	color: #fff;
-}
-
-nav a.selected, nav a:hover {
-	color: #32673f;
-}
-
+/* site body */
 body {
 	background-color: #fff;
 	color: #999;
 }
 
+/* green header */
+header {
+	background-color: #6ab47b;
+	border-color: #599a68;
+}
+
+/* nav background on mobile */
+nav {
+	background: #599a68;
+}
+
+/* logo text */
+h1, h2 {
+	color: #fff;
+}
+
+/* links */
+a {
+	color: #6ab47b;
+}
+
+/* nav link */
+nav a, nav a:visited {
+	color: #fff;
+}
+
+/* selected nav link */
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
